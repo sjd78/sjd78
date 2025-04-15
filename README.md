@@ -1,6 +1,6 @@
+<!--
 ## Hi there 👋
 
-<!--
 **sjd78/sjd78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![trophy](https://github-profile-trophy.vercel.app/?username=sjd78&theme=oldie&no-frame=false&column=3&margin-w=15&margin-h=15&title=-Followers,-Stars)
 -->
+<p align="center" width="100%">
+  <img src="https://github-profile-trophy.vercel.app/?username=sjd78&theme=oldie&no-frame=false&column=5&margin-w=15&margin-h=15&title=-Followers,-Stars">
+</p>
